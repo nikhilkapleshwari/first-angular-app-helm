@@ -3,12 +3,12 @@ entries:
   first-angular-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-25T18:06:14.915530233+05:30"
+    created: "2020-04-25T18:31:45.560846736+05:30"
     description: A Helm chart for Kubernetes
-    digest: 6ab1926568430449ded873ec6a37e06cff1fca0e7fbc35cac8a7a98ae4408c87
+    digest: 30f7e66eb34d12a41a39c3da773ef47c44553d55b2f5d6bd4cdcabb014de4477
     name: first-angular-app
     type: application
     urls:
     - first-angular-app-0.1.0.tgz
     version: 0.1.0
-generated: "2020-04-25T18:06:14.915196794+05:30"
+generated: "2020-04-25T18:31:45.560512673+05:30"
